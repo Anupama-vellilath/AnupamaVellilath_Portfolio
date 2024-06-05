@@ -5,7 +5,15 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
-
+.phone-image {
+  background-image: url('../img/portfolio/phoneNumber.jpg');
+   /* background-size: 1600px 16px;  
+  background-repeat: no-repeat;
+  width: 5000px; 
+  height: 16px; 
+  display: inline-block;
+  text-indent: -9999px; */
+}
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
